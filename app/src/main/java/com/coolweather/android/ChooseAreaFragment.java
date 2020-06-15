@@ -29,6 +29,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+import okhttp3.Callback;
 import okhttp3.Response;
 
 public class ChooseAreaFragment extends Fragment {
